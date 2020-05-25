@@ -1,0 +1,9 @@
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1.3.csprojAssemblyReference.cache
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1._3.Form1.resources
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1._3.Properties.Resources.resources
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1.3.csproj.GenerateResource.cache
+C:\Visual Studio\Huffman1.3\bin\Debug\Huffman1.3.exe.config
+C:\Visual Studio\Huffman1.3\bin\Debug\Huffman1.3.exe
+C:\Visual Studio\Huffman1.3\bin\Debug\Huffman1.3.pdb
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1.3.exe
+C:\Visual Studio\Huffman1.3\obj\Debug\Huffman1.3.pdb
